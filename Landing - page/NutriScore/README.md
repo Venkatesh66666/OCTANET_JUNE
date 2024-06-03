@@ -14,4 +14,7 @@ NutriScore is a web application designed to help users check the calorie content
 - HTML5
 - CSS3 (Bootstrap framework)
 
+## How to Use
 
+1. **Clone the Repository**:
+   git clone https://github.com/Venkatesh66666/OCTANET_JUNE.git
